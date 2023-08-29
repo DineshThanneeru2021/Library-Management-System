@@ -4,6 +4,8 @@
 
 ### And I have created different entities like Books,Author,Student,LibraryCard and made some API's for those entities .
 
+### Technologies used : Java, Spring Boot, MySQL, JPA, Hibernate, Swagger, Tomcat server .
+
 
 
 ![1](https://github.com/DineshThanneeru2021/Library-Management-System/assets/91653299/ac395405-81b7-4723-bbb5-77e41f5864cd)
